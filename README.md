@@ -11,7 +11,3 @@ Mata Kuliah : Pengantar Pemrograman
 - Mendefinisikan variable b dengan nilai 6
 - Mencetak nilai variable a dan b
 - Mencetak hasil penjumlahan a+b
-
-**Latihan 3 :**
-- Buat flowchart untuk menentukan bilangan terbesar dari 3 buah bilangan yang diinputkan
-- Buat flowchart untuk menentukan bilangan terbesar dari N bilangan yang diinputkan, untuk menentukan jumlah N, berikan masukan angka 0
